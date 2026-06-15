@@ -1,0 +1,38 @@
+# T1R2
+
+## Rocoto 7197
+
+**Tratamiento:** NPK convencional
+
+**Código experimental:** V1C1
+
+**Repetición:** 2
+
+---
+
+### Fertilización
+
+**Dosis aplicada:** 22.22 g de NPK por planta
+
+**Composición de la mezcla**
+
+* DAP: 1.36 kg
+* Fuente nitrogenada: 0.32 kg
+* Cloruro de potasio (KCl): 0.46 kg
+
+---
+
+### Unidad Experimental
+
+* 5 plantas
+* Distancia entre plantas: 0.70 m
+* Distancia entre filas: 1.50 m
+
+---
+
+### Identificación
+
+* V1 = Variedad 7197
+* C1 = NPK convencional
+* T1R1 = Tratamiento 1, Repetición 1
+
