@@ -83,8 +83,14 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>V2 = Variedad Nativo</li>
 <li>C1 = NPK convencional</li>
-<li>T3R1 = Tratamiento 4, Repetición 1</li>
+<li>T3R1 = Tratamiento 3, Repetición 1</li>
 </ul>
+<p>library(qrcode)</p>
+<p>url &lt;- “https://leszavaleta.github.io/ROCOTO/T3R1.html”</p>
+<p>qr &lt;- qr_code(url)</p>
+<p>png(“QR_T3R1.png”, width = 4000, height = 4000, res = 600)</p>
+<p>plot(qr)</p>
+<p>dev.off()</p>
 </section>
 </section>
 </section>
