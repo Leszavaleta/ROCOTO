@@ -34,5 +34,18 @@
 
 * V1 = Variedad 7197
 * C1 = NPK convencional
-* T1R1 = Tratamiento 1, Repetición 1
+* T1R2 = Tratamiento 1, Repetición 2
+
+
+library(qrcode)
+
+url <- "https://leszavaleta.github.io/ROCOTO/T1R2.html"
+
+qr <- qr_code(url)
+
+png("QR_T1R2.png", width = 4000, height = 4000, res = 600)
+
+plot(qr)
+
+dev.off()
 

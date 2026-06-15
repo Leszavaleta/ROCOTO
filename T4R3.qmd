@@ -1,12 +1,12 @@
-# T1R1
+# T4R3
 
 ## Rocoto 7197
 
 **Tratamiento:** NPK convencional
 
-**Código experimental:** V1C1
+**Código experimental:** V2C1
 
-**Repetición:** 1
+**Repetición:** 3
 
 ---
 
@@ -32,20 +32,6 @@
 
 ### Identificación
 
-* V1 = Variedad 7197
+* V2 = Variedad Nativo
 * C1 = NPK convencional
-* T1R1 = Tratamiento 1, Repetición 1
-
-library(qrcode)
-
-url <- "https://leszavaleta.github.io/ROCOTO/T1R1.html"
-
-qr <- qr_code(url)
-
-png("QR_T1R1.png", width = 4000, height = 4000, res = 600)
-
-plot(qr)
-
-dev.off()
-
-
+* T4R3 = Tratamiento 4, Repetición 3
